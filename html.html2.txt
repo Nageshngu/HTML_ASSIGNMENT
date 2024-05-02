@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>Anchor tag </title>
+</head>
+<body>
+    <a href="https://google.com">
+     click here to search
+    </a>
+     <br>
+     <a href="https://chatgpt.com">
+     click here to open
+     </a>
+</body>
+</html>
